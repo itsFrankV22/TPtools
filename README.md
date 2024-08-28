@@ -5,5 +5,5 @@ Tshock Plugin: Adds useful tools for the /tp commands
 | ------------ | ------------ |
 | tp.tool.tpplayer     | /ntp         |
 
-> [INFO!]
+> [!NOTE]
 > /ntp  -  Allows you to teleport to the nearest player
