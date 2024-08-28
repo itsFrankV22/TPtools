@@ -24,7 +24,7 @@
 
 ## Instalación
 
-1. **Descargar el Plugin**: Descarga el DLL compilado de TPtool desde la sección de [Releases](#) de este repositorio.
+1. **Descargar el Plugin**: Descarga el DLL compilado de TPtool desde la sección de [Releases](https://github.com/itsFrankV22/TPtools/releases) de este repositorio.
 2. **Mover a la Carpeta de Plugins de TShock**: Coloca el archivo `TPtool.dll` en la carpeta `ServerPlugins` de tu instalación de TShock.
 3. **Reiniciar el Servidor**: Reinicia tu servidor de TShock para cargar el nuevo plugin.
 
