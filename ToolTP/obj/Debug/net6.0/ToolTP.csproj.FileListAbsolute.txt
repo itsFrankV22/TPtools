@@ -1,0 +1,13 @@
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\bin\Debug\net6.0\HttpServer.dll
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\bin\Debug\net6.0\ToolTP.deps.json
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\bin\Debug\net6.0\ToolTP.dll
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\bin\Debug\net6.0\ToolTP.pdb
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.csproj.AssemblyReference.cache
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.AssemblyInfoInputs.cache
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.AssemblyInfo.cs
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.csproj.CoreCompileInputs.cache
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.dll
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\refint\ToolTP.dll
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ToolTP.pdb
+C:\Users\FrankV22\source\repos\ToolTP\ToolTP\obj\Debug\net6.0\ref\ToolTP.dll
